@@ -36,10 +36,11 @@ Disponible  : Freelance & Collaborations
 <div align="center">
 
 <!-- ANIMATED SNAKE CONTRIBUTION GRAPH -->
+<!-- ⚠️ Active le workflow GitHub Actions snake.yml pour voir le snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soulslikelover-code/soulslikelover-code/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soulslikelover-code/soulslikelover-code/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/soulslikelover-code/soulslikelover-code/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -82,8 +83,8 @@ Disponible  : Freelance & Collaborations
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=soulslikelover-code&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soulslikelover-code&layout=compact&langs_count=8&theme=midnight-purple&border_radius=12&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=soulslikelover-code&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=soulslikelover-code&layout=compact&langs_count=8&theme=midnight-purple&border_radius=12&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=ffffff"/>
 
 </div>
 
@@ -115,7 +116,7 @@ Disponible  : Freelance & Collaborations
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=soulslikelover-code&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=soulslikelover-code&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 
 </div>
 
